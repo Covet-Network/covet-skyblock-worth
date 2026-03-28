@@ -581,9 +581,6 @@ worth:
   calibrated_sculk_sensor:
     buy: 0
     sell: -1
-  camel_husk_spawn_egg:
-    buy: 0
-    sell: -1
   camel_spawn_egg:
     buy: 0
     sell: -1
@@ -908,9 +905,6 @@ worth:
   copper_leggings:
     buy: 0
     sell: -1
-  copper_nautilus_armor:
-    buy: 0
-    sell: -1
   copper_nugget:
     buy: 0
     sell: -1
@@ -921,9 +915,6 @@ worth:
     buy: 0
     sell: -1
   copper_shovel:
-    buy: 0
-    sell: -1
-  copper_spear:
     buy: 0
     sell: -1
   copper_sword:
@@ -1310,9 +1301,6 @@ worth:
   diamond_leggings:
     buy: 0
     sell: -1
-  diamond_nautilus_armor:
-    buy: 0
-    sell: -1
   diamond_ore:
     buy: 0
     sell: -1
@@ -1320,9 +1308,6 @@ worth:
     buy: 0
     sell: -1
   diamond_shovel:
-    buy: 0
-    sell: -1
-  diamond_spear:
     buy: 0
     sell: -1
   diamond_sword:
@@ -1685,9 +1670,6 @@ worth:
   golden_chestplate:
     buy: 0
     sell: -1
-  golden_dandelion:
-    buy: 0
-    sell: -1
   golden_helmet:
     buy: 0
     sell: -1
@@ -1700,16 +1682,10 @@ worth:
   golden_leggings:
     buy: 0
     sell: -1
-  golden_nautilus_armor:
-    buy: 0
-    sell: -1
   golden_pickaxe:
     buy: 0
     sell: -1
   golden_shovel:
-    buy: 0
-    sell: -1
-  golden_spear:
     buy: 0
     sell: -1
   golden_sword:
@@ -1970,9 +1946,6 @@ worth:
   iron_leggings:
     buy: 0
     sell: -1
-  iron_nautilus_armor:
-    buy: 0
-    sell: -1
   iron_nugget:
     buy: 0
     sell: -1
@@ -1983,9 +1956,6 @@ worth:
     buy: 0
     sell: -1
   iron_shovel:
-    buy: 0
-    sell: -1
-  iron_spear:
     buy: 0
     sell: -1
   iron_sword:
@@ -2564,9 +2534,6 @@ worth:
   nautilus_shell:
     buy: 0
     sell: -1
-  nautilus_spawn_egg:
-    buy: 0
-    sell: -1
   nether_brick:
     buy: 0
     sell: -1
@@ -2621,16 +2588,10 @@ worth:
   netherite_hoe:
     buy: 0
     sell: -1
-  netherite_horse_armor:
-    buy: 0
-    sell: -1
   netherite_ingot:
     buy: 0
     sell: -1
   netherite_leggings:
-    buy: 0
-    sell: -1
-  netherite_nautilus_armor:
     buy: 0
     sell: -1
   netherite_pickaxe:
@@ -2640,9 +2601,6 @@ worth:
     buy: 0
     sell: -1
   netherite_shovel:
-    buy: 0
-    sell: -1
-  netherite_spear:
     buy: 0
     sell: -1
   netherite_sword:
@@ -2904,9 +2862,6 @@ worth:
     buy: 0
     sell: -1
   paper:
-    buy: 0
-    sell: -1
-  parched_spawn_egg:
     buy: 0
     sell: -1
   parrot_spawn_egg:
@@ -3776,9 +3731,6 @@ worth:
   stone_slab:
     buy: 0
     sell: -1
-  stone_spear:
-    buy: 0
-    sell: -1
   stone_stairs:
     buy: 0
     sell: -1
@@ -4439,9 +4391,6 @@ worth:
   wooden_shovel:
     buy: 0
     sell: -1
-  wooden_spear:
-    buy: 0
-    sell: -1
   wooden_sword:
     buy: 0
     sell: -1
@@ -4503,9 +4452,6 @@ worth:
     buy: 0
     sell: -1
   zombie_horse_spawn_egg:
-    buy: 0
-    sell: -1
-  zombie_nautilus_spawn_egg:
     buy: 0
     sell: -1
   zombie_spawn_egg:
