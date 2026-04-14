@@ -3696,7 +3696,7 @@ worth:
     buy: 0
     sell: -1
   stone:
-    buy: 0
+    buy: 80
     sell: -1
   stone_axe:
     buy: 0
